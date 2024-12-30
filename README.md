@@ -6,7 +6,8 @@ This project, completed as part of ITI's graduation requirements, applies compre
 ---
 
 ## 🔧 Tools & Technologies  
-- **Microsoft SQL Server**: Database design and ETL processes using SSIS.  
+- **Microsoft SQL Server**: Database design and ETL processes using SSIS.
+- **Excel**: Used for data preparation and transformation.  
 - **SSAS and SSRS**: For creating detailed reports.  
 - **Power BI**: To develop five interactive dashboards.
 - **Tableau**: To develop five interactive dashboards.

@@ -1,5 +1,4 @@
-# Bank-Loans-Management-Analysis-and-Reporting-System
-# 🏦 Bank Loan System - Power BI
+# 🏦 Bank Loan System
 
 ## 📊 Project Overview  
 This project, completed as part of ITI's graduation requirements, applies comprehensive data analysis and visualization techniques. From creating database ERDs to designing interactive dashboards, this project showcases our ability to turn raw data into actionable insights for stakeholders and decision-makers.  
@@ -9,8 +8,8 @@ This project, completed as part of ITI's graduation requirements, applies compre
 ## 🔧 Tools & Technologies  
 - **Microsoft SQL Server**: Database design and ETL processes using SSIS.  
 - **SSAS and SSRS**: For creating detailed reports.  
-- **Power BI**: To develop five interactive dashboards.  
-- **Data Sources**: Data imported from Excel into a structured database.  
+- **Power BI**: To develop five interactive dashboards.
+- **Tableau**: To develop five interactive dashboards.
 
 ---
 
@@ -22,8 +21,8 @@ This project, completed as part of ITI's graduation requirements, applies compre
 - **Good Vs. Bad Loan Dashboard:** Analyze and compare loan performance using clear visual indicators.  
 - **Loan Application Metrics Dashboard:** Insights into loan applications, funded amounts, and payments, segmented by month, purpose, employee length, term, and location.  
 
-**Screenshot:**  
-![Executive Overview](link-to-image-dashboard1)
+**Overview:**  
+![Executive Overview](https://github.com/Magdy-ElRawy/Bank-Loans-Management-Analysis-and-Reporting-System/blob/main/Overview%20Dashboard.png)
 
 ---
 
@@ -34,8 +33,8 @@ This project, completed as part of ITI's graduation requirements, applies compre
 - Measure loan process efficiency.  
 - Evaluate the portfolio's financial health.  
 
-**Screenshot:**  
-![Loan Analysis](link-to-image-dashboard2)
+**Loan Analysis:**  
+![Loan Analysis](https://github.com/Magdy-ElRawy/Bank-Loans-Management-Analysis-and-Reporting-System/blob/main/Loan%20Analysis%20Dashboard.png)
 
 ---
 
@@ -46,8 +45,8 @@ This project, completed as part of ITI's graduation requirements, applies compre
 - Fully Paid Rate.  
 - Default Rates.  
 
-**Screenshot:**  
-![Borrower Analysis](link-to-image-dashboard3)
+**Borrowers:**  
+![Borrower Analysis](https://github.com/Magdy-ElRawy/Bank-Loans-Management-Analysis-and-Reporting-System/blob/main/Borrowers%20Dashboard.png)
 
 ---
 
@@ -57,8 +56,8 @@ This project, completed as part of ITI's graduation requirements, applies compre
 - Recoveries and default rates.  
 - Grade-based recovery performance.  
 
-**Screenshot:**  
-![Risk Analysis](link-to-image-dashboard4)
+**Risk Analysis:**  
+![Risk Analysis](https://github.com/Magdy-ElRawy/Bank-Loans-Management-Analysis-and-Reporting-System/blob/main/Risk%20%26%20Performance%20Analysis%20Dashboard.png)
 
 ---
 
@@ -69,8 +68,8 @@ This project, completed as part of ITI's graduation requirements, applies compre
 - Borrower repayment patterns.  
 - Insights into loan purposes and borrower characteristics.  
 
-**Screenshot:**  
-![Delinquency Analysis](link-to-image-dashboard5)
+**Delinquency Analysis:**  
+![Delinquency Analysis](https://github.com/Magdy-ElRawy/Bank-Loans-Management-Analysis-and-Reporting-System/blob/main/Delinquency%20Analysis%20Dashboard.png)
 
 ---
 
@@ -83,27 +82,10 @@ This project, completed as part of ITI's graduation requirements, applies compre
 
 ---
 
-## 📷 Additional Screenshots  
-For more detailed views of the dashboards, visit the project repository or download the `.pbix` files:  
-- [Link to Executive Overview Screenshot](link-to-image-dashboard1)  
-- [Link to Loan Analysis Screenshot](link-to-image-dashboard2)  
-- [Link to Borrower Analysis Screenshot](link-to-image-dashboard3)  
-- [Link to Risk Analysis Screenshot](link-to-image-dashboard4)  
-- [Link to Delinquency Analysis Screenshot](link-to-image-dashboard5)  
-
----
-
-## 🛠️ Dimensional Modeling  
-The project employs a star schema for efficient reporting.  
-![Dimensional Model](link-to-image-dimensional-model)
-
----
-
 ## 📫 Contact  
 For questions or collaboration opportunities, reach out:  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **Email**: [magdyelrawy2022@gmial.com](mailto:magdyelrawy2022@gmial.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/magdy-el-rawy/](https://www.linkedin.com/in/magdy-el-rawy/)   
 
 ---
 
